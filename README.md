@@ -90,3 +90,16 @@
 
 ---
 
+### Образование:
+
+ФГБОУ ВО "ЧГУ им. И.Н.Ульянова", факультет Информатики и вычислительной техники, кафедра Компьютерных технологий, профиль "Прикладная информатика в дизайне" (2024).
+В ходе обучения было разработано веб-приложение для бронирования мест в компьютерном клубе.
+- Frontend: https://github.com/Mika21r/frontend_comp_club
+- Backend: https://github.com/Mika21r/backend_comp_club
+
+#### Курсы:
+
+Тестирование ПО с нуля. Теория + Практика: https://stepik.org/course/171826 <br>
+[Сертификат](https://raw.githubusercontent.com/Mika21r/mika21r/main/assets/stepik-certificate-171826-fd01078%20(1)_page-0001.jpg)
+
+---
