@@ -20,6 +20,20 @@
 
 ---
 
+### Образование:
+
+ФГБОУ ВО "ЧГУ им. И.Н.Ульянова", факультет Информатики и вычислительной техники, кафедра Компьютерных технологий, профиль "Прикладная информатика в дизайне" (2024). <br>
+В ходе обучения было разработано веб-приложение для бронирования мест в компьютерном клубе.
+- Frontend: https://github.com/Mika21r/frontend_comp_club
+- Backend: https://github.com/Mika21r/backend_comp_club
+
+#### Курсы:
+
+Тестирование ПО с нуля. Теория + Практика: https://stepik.org/course/171826 <br>
+[Сертификат](https://raw.githubusercontent.com/Mika21r/mika21r/main/assets/stepik-certificate-171826-fd01078%20(1)_page-0001.jpg)
+
+---
+
 ### Инструменты и языки:
 
 #### Тестирование веб-приложений
@@ -87,19 +101,5 @@
   <img src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
 </div>
-
----
-
-### Образование:
-
-ФГБОУ ВО "ЧГУ им. И.Н.Ульянова", факультет Информатики и вычислительной техники, кафедра Компьютерных технологий, профиль "Прикладная информатика в дизайне" (2024).
-В ходе обучения было разработано веб-приложение для бронирования мест в компьютерном клубе.
-- Frontend: https://github.com/Mika21r/frontend_comp_club
-- Backend: https://github.com/Mika21r/backend_comp_club
-
-#### Курсы:
-
-Тестирование ПО с нуля. Теория + Практика: https://stepik.org/course/171826 <br>
-[Сертификат](https://raw.githubusercontent.com/Mika21r/mika21r/main/assets/stepik-certificate-171826-fd01078%20(1)_page-0001.jpg)
 
 ---
